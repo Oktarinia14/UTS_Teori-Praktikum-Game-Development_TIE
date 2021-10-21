@@ -1,5 +1,6 @@
 # UTS_Teori-Praktikum-Game-Development
 UTS Praktikum dan Teori Game Development (kelompok)
+Note : untuk rar satrio hero 1,2,3 sebenarnya jadi 1 file
 
 # Kelompok 1 :
 1. Muhammad Hanif Arafi (V3920038)
